@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Monda&display=swap');
+@font-face{
+   font-family: "Regular";
+   src: local("MonumentExtended-Regular"),
+   url("./assets/fonts/MonumentExtended-Regular.otf") format("opentype");
+}
+
+.container{
+   font-family: "Regular";
+}
+
+.hero{
+   background-image: url(../../frontend/src/assets/images/Hero-bg.png);
+}
+
+body, html{
+   font-family: 'Monda', sans-serif;
+}
